@@ -1,0 +1,7 @@
+pandas
+numpy
+sqlAlchemy
+mysql-connector-python
+tabulate
+Excel
+Visual studio code 
